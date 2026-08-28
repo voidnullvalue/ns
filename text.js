@@ -1,1 +1,1 @@
-const TEXT=`What the fuck did you just fucking say about me, you little bitch? I'll have you know I graduated top of my class in the Navy Seals
+const TEXT=new TextDecoder().decode(Uint8Array.from(atob(B1+B2+B3+B4),c=>c.charCodeAt(0)));
