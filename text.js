@@ -1,1 +1,1 @@
-const TEXT=`What the fuck did you just fucking say about me, you little bitch? I'll have you know I graduated top of my class in the Navy Seals, and
+const TEXT=`What the fuck did you just fucking say about me, you little bitch? I'll have you know I graduated top of my class in the Navy Seals
